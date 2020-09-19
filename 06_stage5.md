@@ -86,7 +86,7 @@
 	- ビット1の終盤、画面左下隅に向かって密に収束していくビットにオーラ撃ちすると、一瞬でゲージを大量に溜めることが可能。なお、当該ビットが撃つ最後の青弾は、画面左下隅が安地で、自機を押し付けておけば当たらない。
 	- 箱1を左スタートにする場合、ビット1を上に抜けるタイミングを可能な限り遅らせ、地上☆で位置合わせをし（画像1枚目）、雑魚戦車の弾の安地（画像2枚目）に入るのが良い。なお、緑スト及び青ストは、雑魚戦車群のうち一番左上の1体（画像3枚目）をサブショットで撃っておくことで、雑魚戦車の弾の安地を大きく広げることができる。忙しく、画面もうるさいため、ヒット確認は困難。ヒット確信のムーブをしつつ、雑魚戦車を撃てていない想定で安地に入ること。
 		- 動画：https://drive.google.com/open?id=0B39oNCjLzzRMRktQZ2JhTHN3M3M
-		- <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMRzlEQVhWOVdnRVk" width="320px"> <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMWXFoSS1mNEg3Um8" width="320px"> <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMNk42Vl9SNTctcFU" width="320px">
+		- <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMRzlEQVhWOVdnRVk" width="320px"> <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMWXFoSS1mNEg3Um8" width="320px"> <img src="https://doc-0o-ag-docs.googleusercontent.com/docs/securesc/a0gfd14nqj3lut3dd50qgjrkkkkskjpn/9v15oun5230nr48ngsea96kkngrh37jp/1600498425000/05307233613194884603/05307233613194884603/0B39oNCjLzzRMNk42Vl9SNTctcFU?e=view&authuser=0" width="320px">
 	- 箱1を右スタートにする場合、ビット1を上に抜けるタイミングを可能な限り早め、抜けた後はレーザー干渉しながら画面右上へ抜ける。
 		- 動画：https://drive.google.com/open?id=0B39oNCjLzzRMYkJ5cm50Wl9NdjA
 - ビット2上スクロール　ゲージ回収パターン
