@@ -8,15 +8,15 @@
 	- 右上から雑魚戦車が近付いてくるので、必然的に雑魚戦車を撃ってしまい、Hit数上昇が定期的に止まってしまうタイミングがある。そこで、4ハイパー目をそのタイミングに合わせて撃つのが良い。
 		- ピンクの外側のレーザーが、ちょうど縦横を向くタイミングと同じ。
 		- 参考画像。1枚目の1F後が2枚目で、右上の雑魚戦車の破壊エフェクトが出ているため、Hit数が伸びていない。2枚目の直後にハイパーキャンセル即ハイパー（4ハイパー目）してそのまま乗っかっていると、3枚目のとおり、ピンクの中央から撃たれる最後の青弾まで、画面全体弾消しの持続で消すことができる（イコール、ピンクに乗っかり続けることができる）。
-		- <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMZ1lEdjhVMHNXNTg" width="320px"> <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMelFLRnpKa3h3S0E" width="320px"> <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMRkFuTF9KYVdpUkU" width="320px">
+		- <img src="https://user-images.githubusercontent.com/19762780/105610267-2f2ed800-5df2-11eb-8c3d-d516e47d8629.png" width="320px"> <img src="https://user-images.githubusercontent.com/19762780/105610279-4241a800-5df2-11eb-9844-120d1755a60e.png" width="320px"> <img src="https://user-images.githubusercontent.com/19762780/105610288-54234b00-5df2-11eb-8ff8-ea0c91e10355.png" width="320px">
 	- 青スト連付きで7400Hitまで確認。蜂1でHit数をより稼げる赤スト及び緑ストの方が有利。手連では厳しい。
 	- 動画：https://drive.google.com/open?id=0B39oNCjLzzRMVWhqYmFscDFya1k
 - 蛾1ノーハイパー時、蛾の正面から撃たれる青小弾の壁は、左側に抜けることが可能。抜けられるタイミングは何度かあるので、中央付近で追い詰められそうになったら、早い段階で頭の中の選択肢に入れておく。
 	- 動画：https://drive.google.com/open?id=0B39oNCjLzzRMZmxibi1ZRWF6NlE
-	- <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMY0o5QmxtSzE5Mk0" width="320px">
+	- <img src="https://user-images.githubusercontent.com/19762780/105610326-93519c00-5df2-11eb-9f69-ed4e619131fe.png" width="320px">
 - 蛾1ノーハイパー時に完全に詰んだ場合は、A+Cの状態で、レバーをピンク中弾の流れと逆方向に入れっぱなしにすることで、ピンク中弾の間をくぐることが可能（赤スト及び緑ストの場合、入れっぱなしでは移動速度が速すぎる場合があるので注意）。
 	- 動画：https://drive.google.com/open?id=0B39oNCjLzzRMb3BlT1BxeDZ5M2s
-	- <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMM09WRHBxNXNEb1U" width="320px">
+	- <img src="https://user-images.githubusercontent.com/19762780/105610336-a3697b80-5df2-11eb-8c52-340752e3b0d9.png" width="320px">
 - 蛾2ゲージ消費緩和安定パターン
 	- 蛾2前のクロゥバーでハイパー→蛾2にハイパーオーラ撃ち→ハイパーキャンセルしてA+Cのまま乗っかり→下がって4速になったら蛾2撃破→そのまま画面左上の雑魚戦車群にオーラ撃ち
 	- 弾を避ける必要がないのでド安定。1ハイパー使うが、オーラ撃ちのおかげで、ずっと下で立ち回るパターンと比較してゲージ消費は50%で済む。
