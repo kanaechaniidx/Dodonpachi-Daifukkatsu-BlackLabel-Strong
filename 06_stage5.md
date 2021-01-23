@@ -86,7 +86,7 @@
 	- ビット1の終盤、画面左下隅に向かって密に収束していくビットにオーラ撃ちすると、一瞬でゲージを大量に溜めることが可能。なお、当該ビットが撃つ最後の青弾は、画面左下隅が安地で、自機を押し付けておけば当たらない。
 	- 箱1を左スタートにする場合、ビット1を上に抜けるタイミングを可能な限り遅らせ、地上☆で位置合わせをし（画像1枚目）、雑魚戦車の弾の安地（画像2枚目）に入るのが良い。なお、緑スト及び青ストは、雑魚戦車群のうち一番左上の1体（画像3枚目）をサブショットで撃っておくことで、雑魚戦車の弾の安地を大きく広げることができる。忙しく、画面もうるさいため、ヒット確認は困難。ヒット確信のムーブをしつつ、雑魚戦車を撃てていない想定で安地に入ること。
 		- 動画：https://drive.google.com/open?id=0B39oNCjLzzRMRktQZ2JhTHN3M3M
-		- <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMRzlEQVhWOVdnRVk" width="320px"> <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMWXFoSS1mNEg3Um8" width="320px"> <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMNk42Vl9SNTctcFU" width="320px">
+		- <img src="https://user-images.githubusercontent.com/19762780/105610520-4ae6ae00-5df3-11eb-8675-b9b87490baa9.png" width="320px"> <img src="https://user-images.githubusercontent.com/19762780/105610529-5afe8d80-5df3-11eb-80e4-8e66133619b5.png" width="320px"> <img src="https://user-images.githubusercontent.com/19762780/105610535-694ca980-5df3-11eb-97c8-c2affa7ddbd9.png" width="320px">
 	- 箱1を右スタートにする場合、ビット1を上に抜けるタイミングを可能な限り早め、抜けた後はレーザー干渉しながら画面右上へ抜ける。
 		- 動画：https://drive.google.com/open?id=0B39oNCjLzzRMYkJ5cm50Wl9NdjA
 - ビット2上スクロール　ゲージ回収パターン
@@ -141,7 +141,7 @@
 	- 炙る際は、スコアの面でもゲージの面でも、自機の位置合わせが非常に重要。
 		- X軸は、レーザー源とレーザー源の間をキープする。スイートスポットの範囲は広い。なお、レーザー源とレーザー源の丁度中間ではなく、少し右めを意識すると、Hit数の伸びはそのままに、ゲージ効率だけが高くなる。
 		- Y軸は、自機の当たり判定の円の下端を、レーザー源の円の下端に合わせる。ナイアガラ1の1ハイパー目だけは、レーザー源の円が見えにくいので、自機の当たり判定の円の中心を、ハイパーゲージ下端に合わせる。スイートスポットの範囲は非常に狭く、数ドットずれてしまうだけで、上昇Hit数が数千Hit落ちてしまう。
-		- <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMczAwck5kUWJ2UXc" width="320px"> <img src="http://drive.google.com/uc?export=view&id=0B39oNCjLzzRMaVd3amlQZHplOWc" width="600px">
+		- <img src="https://user-images.githubusercontent.com/19762780/105610555-81bcc400-5df3-11eb-9eef-c5648470a360.png" width="320px"> <img src="https://user-images.githubusercontent.com/19762780/105610563-8ed9b300-5df3-11eb-8ef7-a83605918771.png" width="600px">
 	- 上昇Hit数の目標値は、ナイアガラ1で28000Hit、ナイアガラ2で19000Hit。赤スト及び緑ストの場合、蛾2で弾消し稼ぎをするので、ナイアガラ2における上昇Hit数はこれよりも落ちる。
 		- 参考まで、chronoが青ストで稼いでいた際の自己ベストは、ナイアガラ1で29000Hit、ナイアガラ2で19500Hitまで。ナイアガラ1で29000Hitを狙うのであれば、3ハイパー目の脱出を極めて遅らせる必要があるが、シュガクが弾を撃つ周期がランダムなので安定はしない。
 	- ハイパー中にゲージが溜まり切らない場合のチェックリスト。
